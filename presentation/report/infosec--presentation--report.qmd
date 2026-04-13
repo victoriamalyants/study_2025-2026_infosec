@@ -12,7 +12,7 @@ author:
       address: ул. Миклухо-Маклая, д. 6
 
 ## Title
-title: "Доклад"
+title: "Реферат"
 subtitle: "Биометрия"
 license: "CC BY"
 ---
